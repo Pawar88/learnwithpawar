@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/learnwithpawar/static/css/main.e6c13ad2.css",
-    "main.js": "/learnwithpawar/static/js/main.8462b48a.js",
+    "main.js": "/learnwithpawar/static/js/main.e585ff33.js",
     "static/js/453.e4a01be6.chunk.js": "/learnwithpawar/static/js/453.e4a01be6.chunk.js",
     "index.html": "/learnwithpawar/index.html",
     "main.e6c13ad2.css.map": "/learnwithpawar/static/css/main.e6c13ad2.css.map",
-    "main.8462b48a.js.map": "/learnwithpawar/static/js/main.8462b48a.js.map",
+    "main.e585ff33.js.map": "/learnwithpawar/static/js/main.e585ff33.js.map",
     "453.e4a01be6.chunk.js.map": "/learnwithpawar/static/js/453.e4a01be6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8462b48a.js"
+    "static/js/main.e585ff33.js"
   ]
 }
