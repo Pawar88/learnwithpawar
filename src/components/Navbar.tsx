@@ -19,14 +19,14 @@ const Navbar = () => {
             <div className="td_top_header_left td_moving_box_wrap">
               <ul className="td_header_contact_list td_mp_0 td_normal  td_moving_box">
                 <li>
-                  <img src="/assets/img/icons/call.svg" alt="" />
+                  <img src="assets/img/icons/call.svg" alt="" />
                   <span>
                     Call:{" "}
                     <Link to={`cal:+91 842 121 8824`}>+91 842 121 8824</Link>
                   </span>
                 </li>
                 <li>
-                  <img src="/assets/img/icons/envlop.svg" alt="" />
+                  <img src="assets/img/icons/envlop.svg" alt="" />
                   <span>
                     Email:{" "}
                     <Link to={`mailto:learningwithprayag@gmail.com`}>
@@ -108,7 +108,7 @@ const Navbar = () => {
               <div className="td_header_category_wrap position-relative">
                 <button className="td_header_dropdown_btn td_medium td_heading_color">
                   <img
-                    src="/assets/img/icons/menu-square.svg"
+                    src="assets/img/icons/menu-square.svg"
                     alt=""
                     className="td_header_dropdown_btn_icon"
                   />
@@ -161,7 +161,7 @@ const Navbar = () => {
                     className="td_circle_btn td_center td_search_tobble_btn"
                     type="button"
                   >
-                    <img src="/assets/img/icons/search_2.svg" alt="" />
+                    <img src="assets/img/icons/search_2.svg" alt="" />
                   </button>
                   <div className="td_header_search_wrap">
                     <form action="#" className="td_header_search">
@@ -171,7 +171,7 @@ const Navbar = () => {
                         placeholder="Search For Anything"
                       />
                       <button className="td_header_search_btn td_center">
-                        <img src="/assets/img/icons/search_2.svg" alt="" />
+                        <img src="assets/img/icons/search_2.svg" alt="" />
                       </button>
                     </form>
                   </div>
@@ -180,11 +180,11 @@ const Navbar = () => {
                   className="td_circle_btn td_center td_wishlist_btn"
                   type="button"
                 >
-                  <img src="/assets/img/icons/love.svg" alt="" />
+                  <img src="assets/img/icons/love.svg" alt="" />
                   <span className="td_circle_btn_label">0</span>
                 </button>
                 <button className="td_circle_btn td_center" type="button">
-                  <img src="/assets/img/icons/cart.svg" alt="" />
+                  <img src="assets/img/icons/cart.svg" alt="" />
                   <span className="td_circle_btn_label">0</span>
                 </button>
               </div>
