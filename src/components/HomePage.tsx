@@ -448,7 +448,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/docker.svg" alt="" />
+                      <img src="assets/img/home_2/docker.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Docker
@@ -467,7 +467,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/dockerhub.svg" alt="" />
+                      <img src="assets/img/home_2/dockerhub.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       DockerHub
@@ -486,7 +486,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/category_icon_8.svg" alt="" />
+                      <img src="assets/img/home_2/category_icon_8.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Nexus Repostitory
@@ -505,7 +505,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/kubernetes.svg" alt="" />
+                      <img src="assets/img/home_2/kubernetes.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Kubernetes
@@ -524,7 +524,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/ansible.svg" alt="" />
+                      <img src="assets/img/home_2/ansible.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Ansible
@@ -543,7 +543,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/terraform.svg" alt="" />
+                      <img src="assets/img/home_2/terraform.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Terraform
@@ -562,7 +562,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/projectIco.svg" alt="" />
+                      <img src="assets/img/home_2/projectIco.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Project
@@ -586,7 +586,7 @@ const Home: React.FC = () => {
                   data-wow-duration="1s"
                   data-wow-delay="0.25s"
                 >
-                  <img src="assets/imghome_2/online-course-learning-at-home.png" alt="" />
+                  <img src="assets/img/home_2/online-course-learning-at-home.png" alt="" />
                 </div>
                 <div
                   className="td_image_box_img_2 wow fadeInUp"
@@ -708,7 +708,7 @@ const Home: React.FC = () => {
                   data-wow-delay="0.25s"
                 >
                   <div className="td_award_box_icon td_center">
-                    <img src="assets/imghome_2/cs_award_box_icon.svg" alt="" />
+                    <img src="assets/img/home_2/cs_award_box_icon.svg" alt="" />
                   </div>
                   <div className="td_award_box_in">
                     <p className="td_fs_24 td_semibold td_white_color td_center td_accent_bg">
