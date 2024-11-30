@@ -95,16 +95,16 @@ const Home: React.FC = () => {
           <div className="td_avatars_wrap td_type_1 td_hover_layer_5">
             <div className="td_avatars">
               <div>
-                <img src="assets/imgothers/testimonials-4.jpg" alt="" />
+                <img src="/assets/imgothers/testimonials-4.jpg" alt="" />
               </div>
               <div>
-                <img src="assets/imgothers/testimonials-3.jpg" alt="" />
+                <img src="/assets/imgothers/testimonials-3.jpg" alt="" />
               </div>
               <div>
-                <img src="assets/imgothers/testimonials_1.jpg" alt="" />
+                <img src="/assets/imgothers/testimonials_1.jpg" alt="" />
               </div>
               <div>
-                <img src="assets/imgavatar_3.png" alt="" />
+                <img src="/assets/imgavatar_3.png" alt="" />
                 <i className="fa-solid fa-plus"></i>
               </div>
             </div>
@@ -120,7 +120,7 @@ const Home: React.FC = () => {
           <div className="td_hero_funfact td_hover_layer_5">
             <img src="assets/imgicons/user_2.svg" alt="" />
             <div>
-              <p className="td_fs_40 td_bold td_heading_color">32</p>
+              <p className="td_fs_40 td_bold td_heading_color">100+</p>
               <p className="td_mb_5 td_heading_color td_opacity_5 td_fs_12">
                 Active Students
               </p>

@@ -181,7 +181,7 @@ const Navbar = () => {
                   type="button"
                 >
                   <img src="assets/img/icons/love.svg" alt="" />
-                  <span className="td_circle_btn_label">0</span>
+                  <span className="td_circle_btn_label">94</span>
                 </button>
                 <button className="td_circle_btn td_center" type="button">
                   <img src="assets/img/icons/cart.svg" alt="" />
