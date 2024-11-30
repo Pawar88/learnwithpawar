@@ -13,13 +13,13 @@ export const StartedCourseDetail = (props: scheduleTimeProps) => {
           <div className="row align-items-center td_gap_y_40">
             <div className="col-xl-6">
               <div className="td_image_box td_style_1">
-                <img src="assets/imghome_2/LiveClass.jpg" alt="" className="td_image_box_thumb wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"/>
+                <img src="assets/img/home_2/LiveClass.jpg" alt="" className="td_image_box_thumb wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"/>
                 <div className="td_avatars_wrap td_type_2 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
                   <h3 className="mb-0 td_fs_24 td_semibold">100+ Active Students</h3>
                   <div className="td_avatars">
-                    <div><img src="assets/imgothers/testimonials-4.jpg" alt=""/></div>
-                    <div><img src="assets/imgothers/testimonials-3.jpg" alt=""/></div>
-                    <div><img src="assets/imgothers/testimonials_1.jpg" alt=""/></div>
+                    <div><img src="assets/img/others/testimonials-4.jpg" alt=""/></div>
+                    <div><img src="assets/img/others/testimonials-3.jpg" alt=""/></div>
+                    <div><img src="assets/img/others/testimonials_1.jpg" alt=""/></div>
                     
                     <div className="td_avatar_end td_fs_18 td_medium td_center">100+</div>
                   </div>

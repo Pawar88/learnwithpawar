@@ -1573,7 +1573,7 @@ const Home: React.FC = () => {
                     to="/courselist"
                     className="td_card_thumb d-block"
                   >
-                    <img src="/assets/img/home_2/Training.jpg" alt="" />
+                    <img src="assets/img/home_2/Training.jpg" alt="" />
                     <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </Link>
                   <div className="td_card_info">
