@@ -95,16 +95,16 @@ const Home: React.FC = () => {
           <div className="td_avatars_wrap td_type_1 td_hover_layer_5">
             <div className="td_avatars">
               <div>
-                <img src="/assets/imgothers/testimonials-4.jpg" alt="" />
+                <img src="assets/img/others/testimonials-4.jpg" alt="" />
               </div>
               <div>
-                <img src="/assets/imgothers/testimonials-3.jpg" alt="" />
+                <img src="assets/img/others/testimonials-3.jpg" alt="" />
               </div>
               <div>
-                <img src="/assets/imgothers/testimonials_1.jpg" alt="" />
+                <img src="assets/img/others/testimonials_1.jpg" alt="" />
               </div>
               <div>
-                <img src="/assets/imgavatar_3.png" alt="" />
+                <img src="assets/img/avatar_3.png" alt="" />
                 <i className="fa-solid fa-plus"></i>
               </div>
             </div>
@@ -118,7 +118,7 @@ const Home: React.FC = () => {
             </div>
           </div>
           <div className="td_hero_funfact td_hover_layer_5">
-            <img src="assets/imgicons/user_2.svg" alt="" />
+            <img src="assets/img/icons/user_2.svg" alt="" />
             <div>
               <p className="td_fs_40 td_bold td_heading_color">100+</p>
               <p className="td_mb_5 td_heading_color td_opacity_5 td_fs_12">
@@ -162,7 +162,7 @@ const Home: React.FC = () => {
         <div className="td_hero_shape_3 position-absolute td_hover_layer_5"></div>
         <div className="td_hero_shape_4 position-absolute td_hover_layer_3"></div>
         <div className="td_hero_shape_5 position-absolute td_hover_layer_5">
-          <img src="assets/imghome_5/hero_shape_5.svg" alt="" />
+          <img src="assets/img/home_5/hero_shape_5.svg" alt="" />
         </div>
       </section>
 
@@ -198,29 +198,29 @@ const Home: React.FC = () => {
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
                     <img
-                      src="assets/imghome_2/tataconsultancyservice.svg"
+                      src="assets/img/home_2/tataconsultancyservice.svg"
                       alt=""
                     />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/Amazon.svg" alt="" />
+                    <img src="assets/img/home_2/Amazon.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/Flipkart.svg" alt="" />
+                    <img src="assets/img/home_2/Flipkart.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/oracle.svg" alt="" />
+                    <img src="assets/img/home_2/oracle.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/Deloitte.svg" alt="" />
+                    <img src="assets/img/home_2/Deloitte.svg" alt="" />
                   </div>
                 </li>
               </ul>
@@ -229,27 +229,27 @@ const Home: React.FC = () => {
               <ul className="td_rate_feature_list td_mp_0">
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/Infosys.svg" alt="" />
+                    <img src="assets/img/home_2/Infosys.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/netflix_logo.svg" alt="" />
+                    <img src="assets/img/home_2/netflix_logo.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/ibm-logo.svg" alt="" />
+                    <img src="assets/img/home_2/ibm-logo.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/Wipro.svg" alt="" />
+                    <img src="assets/img/home_2/Wipro.svg" alt="" />
                   </div>
                 </li>
                 <li>
                   <div className="td_rate_feature_icon td_center td_white_bg">
-                    <img src="assets/imghome_2/HCL.svg" alt="" />
+                    <img src="assets/img/home_2/HCL.svg" alt="" />
                   </div>
                 </li>
               </ul>
@@ -351,7 +351,7 @@ const Home: React.FC = () => {
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
                       <img
-                        src="assets/imghome_2/linux-svgrepo-com.svg"
+                        src="assets/img/home_2/linux-svgrepo-com.svg"
                         alt=""
                       />
                     </div>
@@ -372,7 +372,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/SH.svg" alt="" />
+                      <img src="assets/img/home_2/SH.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Shell Scirpting
@@ -391,7 +391,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/github.svg" alt="" />
+                      <img src="assets/img/home_2/github.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Git
@@ -410,7 +410,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/githubIcon.svg" alt="" />
+                      <img src="assets/img/home_2/githubIcon.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       Github
@@ -429,7 +429,7 @@ const Home: React.FC = () => {
                 <div className="td_iconbox_in td_hover_layer_4">
                   <div className="td_hover_layer_3">
                     <div className="td_iconbox_icon td_mb_16">
-                      <img src="assets/imghome_2/Gitlab.svg" alt="" />
+                      <img src="assets/img/home_2/Gitlab.svg" alt="" />
                     </div>
                     <h3 className="td_iconbox_title td_fs_20 td_semibold td_opacity_8 td_mb_16">
                       GitLab
@@ -594,7 +594,7 @@ const Home: React.FC = () => {
                   data-wow-delay="0.25s"
                 >
                   <img
-                    src="assets/imgothers/about_Us_02.jpg"
+                    src="assets/img/others/about_Us_02.jpg"
                     alt=""
                     className="td_image_box_img_2_thumb"
                   />
@@ -1096,7 +1096,7 @@ const Home: React.FC = () => {
                       <Link to="/courselist" className="td_card_thumb">
                         <span className="td_card_thumb_in">
                           <img
-                            src="/assets/img/home_3/course_thumb_3.jpg"
+                            src="assets/img/home_3/course_thumb_3.jpg"
                             alt=""
                           />
                           <span className="td_card_label td_fs_14 td_white_color td_accent_bg">
@@ -1107,11 +1107,11 @@ const Home: React.FC = () => {
                       <div className="td_card_content">
                         <ul className="td_card_meta td_mp_0 td_fs_16 td_heading_color">
                           <li>
-                            <img src="/assets/img/icons/user_3.svg" alt="" />
+                            <img src="assets/img/icons/user_3.svg" alt="" />
                             <span className="td_opacity_7">20 Seats</span>
                           </li>
                           <li>
-                            <img src="/assets/img/icons/book.svg" alt="" />
+                            <img src="assets/img/icons/book.svg" alt="" />
                             <span className="td_opacity_7">85 Like</span>
                           </li>
                         </ul>
@@ -1178,7 +1178,7 @@ const Home: React.FC = () => {
                       <Link to="/courselist" className="td_card_thumb">
                         <span className="td_card_thumb_in">
                           <img
-                            src="/assets/img/home_3/course_thumb_1.jpg"
+                            src="assets/img/home_3/course_thumb_1.jpg"
                             alt=""
                           />
                           <span className="td_card_label td_fs_14 td_white_color td_accent_bg">
@@ -1189,11 +1189,11 @@ const Home: React.FC = () => {
                       <div className="td_card_content">
                         <ul className="td_card_meta td_mp_0 td_fs_16 td_heading_color">
                           <li>
-                            <img src="/assets/img/icons/user_3.svg" alt="" />
+                            <img src="assets/img/icons/user_3.svg" alt="" />
                             <span className="td_opacity_7">50 Seats</span>
                           </li>
                           <li>
-                            <img src="/assets/img/icons/book.svg" alt="" />
+                            <img src="assets/img/icons/book.svg" alt="" />
                             <span className="td_opacity_7">65 Like</span>
                           </li>
                         </ul>
@@ -1243,7 +1243,7 @@ const Home: React.FC = () => {
                       <Link to="course-details.html" className="td_card_thumb">
                         <span className="td_card_thumb_in">
                           <img
-                            src="/assets/img/home_3/course_thumb_3.jpg"
+                            src="assets/img/home_3/course_thumb_3.jpg"
                             alt=""
                           />
                           <span className="td_card_label td_fs_14 td_white_color td_accent_bg">
@@ -1254,11 +1254,11 @@ const Home: React.FC = () => {
                       <div className="td_card_content">
                         <ul className="td_card_meta td_mp_0 td_fs_16 td_heading_color">
                           <li>
-                            <img src="/assets/img/icons/user_3.svg" alt="" />
+                            <img src="assets/img/icons/user_3.svg" alt="" />
                             <span className="td_opacity_7">20 Seats</span>
                           </li>
                           <li>
-                            <img src="/assets/img/icons/book.svg" alt="" />
+                            <img src="assets/img/icons/book.svg" alt="" />
                             <span className="td_opacity_7">85 Like</span>
                           </li>
                         </ul>
@@ -1319,7 +1319,7 @@ const Home: React.FC = () => {
                       <Link to="/courselist" className="td_card_thumb">
                         <span className="td_card_thumb_in">
                           <img
-                            src="/assets/img/home_3/course_thumb_1.jpg"
+                            src="assets/img/home_3/course_thumb_1.jpg"
                             alt=""
                           />
                           <span className="td_card_label td_fs_14 td_white_color td_accent_bg">
@@ -1330,11 +1330,11 @@ const Home: React.FC = () => {
                       <div className="td_card_content">
                         <ul className="td_card_meta td_mp_0 td_fs_16 td_heading_color">
                           <li>
-                            <img src="/assets/img/icons/user_3.svg" alt="" />
+                            <img src="assets/img/icons/user_3.svg" alt="" />
                             <span className="td_opacity_7">50 Seats</span>
                           </li>
                           <li>
-                            <img src="/assets/img/icons/book.svg" alt="" />
+                            <img src="assets/img/icons/book.svg" alt="" />
                             <span className="td_opacity_7">65 Like</span>
                           </li>
                         </ul>
@@ -1460,7 +1460,7 @@ const Home: React.FC = () => {
                     to="/courselist"
                     className="td_card_thumb d-block"
                   >
-                    <img src="/assets/img/home_2/devops.jpg" alt="" />
+                    <img src="assets/img/home_2/devops.jpg" alt="" />
                     <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </Link>
                   <div className="td_card_info">
@@ -1516,7 +1516,7 @@ const Home: React.FC = () => {
                     to="/courselist"
                     className="td_card_thumb d-block"
                   >
-                    <img src="/assets/img/home_2/insights.jpg" alt="" />
+                    <img src="assets/img/home_2/insights.jpg" alt="" />
                     <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </Link>
                   <div className="td_card_info">
