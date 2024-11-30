@@ -2,13 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/logo.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="LWP"
     />
+    
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
@@ -24,11 +25,27 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>LWP | Learn With Prayag</title>
+    <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/fontawesome.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/slick.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/odometer.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/animate.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/jquery-ui.min.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/style.css">
   </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+  <body class="td_theme_2">
+    
+    <div class="td_preloader">
+      <div class="td_preloader_in">
+        <span></span>
+        <span></span>
+      </div>
+    </div>
     <div id="root"></div>
+    <div class="td_scrollup">
+      <i class="fa-solid fa-arrow-up"></i>
+    </div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -39,5 +56,21 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script type="text/javascript">if (typeof (renderReCaptchaCallback) === "undefined") {
+      var reCaptchaWidgets = {};
+      var renderReCaptchaCallback = function() {
+          jQuery.each(reCaptchaWidgets, function(widgetId, widgetOptions) {
+              grecaptcha.render(document.getElementById(widgetId), widgetOptions);
+          });
+      };
+  }</script>
+  <script src="%PUBLIC_URL%/assets/js/jquery-3.7.1.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/jquery-ui.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/main.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/jquery.slick.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/odometer.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/gsap.min.js"></script>
+
+  <script src="%PUBLIC_URL%/assets/js/wow.min.js"></script>
   </body>
 </html>
